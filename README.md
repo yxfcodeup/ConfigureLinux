@@ -1,2 +1,1 @@
 # ConfigureLinux
-Configure my linux

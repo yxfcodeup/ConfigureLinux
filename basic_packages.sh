@@ -44,3 +44,5 @@ yum install ntfs-3g
 # Clang 系列
 yum install clang                         # clang 编译器
 yum install clang-analyzer                # clang 静态分析器
+
+# NVIDIA驱动

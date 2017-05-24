@@ -42,3 +42,5 @@ do
             ;;
     esac
 done
+
+# wifi驱动
